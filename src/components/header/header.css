@@ -36,6 +36,11 @@ header {
     background: var(--color-primary);
 }
 
+.hello {
+    font-style: italic;
+    font-size: 35px;
+}
+
 /* ====== Header img ====== */
 
 .me {

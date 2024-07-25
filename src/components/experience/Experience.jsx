@@ -47,6 +47,13 @@ const Experience = () => {
               <small className='text-light'>Experienced</small>
               </div>
             </article>
+            <article className='experience__details'>
+              <BiCodeAlt className='experience__details-icon' />
+              <div>
+              <h4>Flutter</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
           </div>
         </div>
 
@@ -56,15 +63,15 @@ const Experience = () => {
             <article className='experience__details'>
               <BiCodeAlt className='experience__details-icon' />
               <div>
-              <h4>Node JS</h4>
+              <h4>Java/Spring Boot</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BiCodeAlt className='experience__details-icon' />
               <div>
-              <h4>Java</h4>
-              <small className='text-light'>Experienced</small>
+              <h4>Go/Gin</h4>
+              <small className='text-light'>Familiar</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -77,7 +84,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BiCodeAlt className='experience__details-icon' />
               <div>
-              <h4>PostgreSQL</h4>
+              <h4>Dart</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -91,7 +98,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BiCodeAlt className='experience__details-icon' />
               <div>
-              <h4>MySQL</h4>
+              <h4>PostgreSQL</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
