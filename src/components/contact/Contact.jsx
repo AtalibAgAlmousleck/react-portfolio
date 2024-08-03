@@ -32,7 +32,7 @@ const Contact = () => {
             <BsWhatsapp className='contact__option-icon' />
             <h4>WhatShapp</h4>
             <h5></h5>
-            <a href="https://api.whatsapp.com/send?phone=+8613027207507" target='_blank'>Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=+8618681623780" target='_blank'>Send a message</a>
           </article>
           <article className='contact__option'>
             <FaWeixin className='contact__option-icon' />

@@ -5,7 +5,7 @@ import WEB2 from '../../assets/web2.jpg'
 import WEB3 from '../../assets/web3.jpg'
 import FLUTTER from '../../assets/flutter.jpg'
 import FLUTTER2 from '../../assets/ecom.png'
-import WEB1 from '../../assets/web1.png'
+import EXPRESS2 from '../../assets/ecom1.png'
 import SPRING from '../../assets/spring.png'
 import EXPRESS from '../../assets/express.png'
 
@@ -44,6 +44,12 @@ const data = [
     id: 6,
     image: EXPRESS,
     title: 'Nodejs Express Authentication and Authorization application',
+    github: 'https://github.com'
+  },
+  {
+    id: 7,
+    image: EXPRESS2,
+    title: 'Full Stack eCommerce application with payment integration',
     github: 'https://github.com'
   }
 ]

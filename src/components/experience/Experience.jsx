@@ -78,13 +78,13 @@ const Experience = () => {
               <BiCodeAlt className='experience__details-icon' />
               <div>
               <h4>Dart</h4>
-              <small className='text-light'>Familiar</small>
+              <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BiCodeAlt className='experience__details-icon' />
               <div>
-              <h4>Dart</h4>
+              <h4>Nodejs</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -100,6 +100,33 @@ const Experience = () => {
               <div>
               <h4>PostgreSQL</h4>
               <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div className="experience__backend">
+          <h3>Spoking Languages</h3>
+          <div className='experience__content'>
+            <article className='experience__details'>
+              <BiCodeAlt className='experience__details-icon' />
+              <div>
+              <h4>English</h4>
+              <small className='text-light'>Fluent</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BiCodeAlt className='experience__details-icon' />
+              <div>
+              <h4>French</h4>
+              <small className='text-light'>Fluent</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BiCodeAlt className='experience__details-icon' />
+              <div>
+              <h4>Chinese</h4>
+              <small className='text-light'>Good</small>
               </div>
             </article>
           </div>
