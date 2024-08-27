@@ -1,6 +1,7 @@
 import React from 'react'
 import './experience.css'
 import { BiCodeAlt } from 'react-icons/bi'
+import { IoLanguage } from "react-icons/io5";
 
 const Experience = () => {
   return (
@@ -36,13 +37,6 @@ const Experience = () => {
             <article className='experience__details'>
               <BiCodeAlt className='experience__details-icon' />
               <div>
-              <h4>Bootstrap</h4>
-              <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BiCodeAlt className='experience__details-icon' />
-              <div>
               <h4>React</h4>
               <small className='text-light'>Experienced</small>
               </div>
@@ -63,15 +57,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BiCodeAlt className='experience__details-icon' />
               <div>
-              <h4>Java/Spring Boot</h4>
+              <h4>Java</h4>
               <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BiCodeAlt className='experience__details-icon' />
-              <div>
-              <h4>Go/Gin</h4>
-              <small className='text-light'>Familiar</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -84,7 +71,28 @@ const Experience = () => {
             <article className='experience__details'>
               <BiCodeAlt className='experience__details-icon' />
               <div>
+              <h4>Golang</h4>
+              <small className='text-light'>Familiar</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BiCodeAlt className='experience__details-icon' />
+              <div>
               <h4>Nodejs</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        {/* Database start */}
+        <div className="experience__backend">
+          <h3>Databases</h3>
+          <div className='experience__content'>
+            <article className='experience__details'>
+              <BiCodeAlt className='experience__details-icon' />
+              <div>
+              <h4>PostgreSQL</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -98,32 +106,40 @@ const Experience = () => {
             <article className='experience__details'>
               <BiCodeAlt className='experience__details-icon' />
               <div>
-              <h4>PostgreSQL</h4>
+              <h4>MySQL</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BiCodeAlt className='experience__details-icon' />
+              <div>
+              <h4>Firebase</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
           </div>
-        </div>
+          </div>
+          {/* Databases ended */}
 
         <div className="experience__backend">
           <h3>Spoking Languages</h3>
           <div className='experience__content'>
             <article className='experience__details'>
-              <BiCodeAlt className='experience__details-icon' />
+            <IoLanguage className='experience__details-icon' />
               <div>
               <h4>English</h4>
               <small className='text-light'>Fluent</small>
               </div>
             </article>
             <article className='experience__details'>
-              <BiCodeAlt className='experience__details-icon' />
+            <IoLanguage className='experience__details-icon' />
               <div>
               <h4>French</h4>
               <small className='text-light'>Fluent</small>
               </div>
             </article>
             <article className='experience__details'>
-              <BiCodeAlt className='experience__details-icon' />
+            <IoLanguage className='experience__details-icon' />
               <div>
               <h4>Chinese</h4>
               <small className='text-light'>Good</small>
