@@ -14,43 +14,43 @@ const data = [
     id: 1,
     image: WEB3,
     title: 'Complete eCommerce application with Nodejs and Express',
-    github: 'https://github.com'
+    github: 'https://github.com/AtalibAgAlmousleck'
   },
   {
     id: 2,
     image: FLUTTER,
     title: 'Flutter and Firebase Androi and iOS online shop',
-    github: 'https://github.com'
+   github: 'https://github.com/AtalibAgAlmousleck'
   },
   {
     id: 3,
     image: WEB2,
     title: 'Reactjs eCommerce application',
-    github: 'https://github.com'
+   github: 'https://github.com/AtalibAgAlmousleck'
   },
   {
     id: 4,
     image: FLUTTER2,
     title: 'Flutter and Firebase Androi and iOS online shop',
-    github: 'https://github.com'
+    github: 'https://github.com/AtalibAgAlmousleck'
   },
   {
     id: 5,
     image: SPRING,
     title: 'Complete Spring Boot Web application',
-    github: 'https://github.com'
+    github: 'https://github.com/AtalibAgAlmousleck'
   },
   {
     id: 6,
     image: EXPRESS,
     title: 'Nodejs Express Authentication and Authorization application',
-    github: 'https://github.com'
+    github: 'https://github.com/AtalibAgAlmousleck'
   },
   {
     id: 7,
     image: EXPRESS2,
     title: 'Full Stack eCommerce application with payment integration',
-    github: 'https://github.com'
+    github: 'https://github.com/AtalibAgAlmousleck'
   }
 ]
 
@@ -70,9 +70,9 @@ const Projects = () => {
               </div>
               <h3>{title}</h3>
               <div className='project__item-cta'>
-                {/* <a href={github} target='_blank'>
+                <a href={github} target='_blank'>
                   <BsGithub />
-                </a> */}
+                </a>
               </div>
             </article>
             )
