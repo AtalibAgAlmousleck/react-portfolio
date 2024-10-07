@@ -8,19 +8,20 @@ import FLUTTER2 from '../../assets/ecom.png'
 import EXPRESS2 from '../../assets/ecom1.png'
 import SPRING from '../../assets/spring.png'
 import EXPRESS from '../../assets/express.png'
+import UI1 from '../../assets/ui1.png'
 
 const data = [
   {
     id: 1,
     image: WEB3,
     title: 'Complete eCommerce application with Nodejs and Express',
-    github: 'https://github.com/AtalibAgAlmousleck'
+    github: 'https://github.com/AtalibAgAlmousleck/Nodejs-Express-eCommerce'
   },
   {
     id: 2,
     image: FLUTTER,
     title: 'Flutter and Firebase Androi and iOS online shop',
-   github: 'https://github.com/AtalibAgAlmousleck'
+   github: 'https://github.com/AtalibAgAlmousleck/fluttermyshopseason1'
   },
   {
     id: 3,
@@ -32,7 +33,7 @@ const data = [
     id: 4,
     image: FLUTTER2,
     title: 'Flutter and Firebase Androi and iOS online shop',
-    github: 'https://github.com/AtalibAgAlmousleck'
+    github: 'https://github.com/AtalibAgAlmousleck/flutter-gradal-shop-app'
   },
   {
     id: 5,
@@ -44,13 +45,19 @@ const data = [
     id: 6,
     image: EXPRESS,
     title: 'Nodejs Express Authentication and Authorization application',
-    github: 'https://github.com/AtalibAgAlmousleck'
+    github: 'https://github.com/AtalibAgAlmousleck/express-authentication-authorization'
   },
   {
     id: 7,
     image: EXPRESS2,
     title: 'Full Stack eCommerce application with payment integration',
-    github: 'https://github.com/AtalibAgAlmousleck'
+    github: 'https://github.com/AtalibAgAlmousleck/next-ecommerce'
+  },
+  {
+    id: 8,
+    image: UI1,
+    title: 'Train ticket booking management UI with Flutter',
+    github: 'https://github.com/ataousCode/train_ui'
   }
 ]
 

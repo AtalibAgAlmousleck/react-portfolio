@@ -16,7 +16,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BiCodeAlt className='experience__details-icon' />
                <div>
-               <h4>HTML/CSS</h4>
+               <h4>HTML/CSS/JS</h4>
               <small className='text-light'>Experienced</small>
                </div>
             </article>
@@ -30,7 +30,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BiCodeAlt className='experience__details-icon' />
               <div>
-              <h4>JavaScript</h4>
+              <h4>Flutter</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -38,14 +38,7 @@ const Experience = () => {
               <BiCodeAlt className='experience__details-icon' />
               <div>
               <h4>React</h4>
-              <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BiCodeAlt className='experience__details-icon' />
-              <div>
-              <h4>Flutter</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Familiar</small>
               </div>
             </article>
           </div>

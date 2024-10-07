@@ -73,14 +73,14 @@ header {
 /* ============== Media Query Table screen ============== */
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 60vh;
     }
 }
 
 /* ============== Media Query small screen ============== */
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 56vh;
     }
 
     .header_socials, .scroll_down {

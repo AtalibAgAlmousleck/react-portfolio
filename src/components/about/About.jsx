@@ -43,8 +43,13 @@ const About = () => {
             Hello! I'm Almousleck, a passionate and versatile Full Stack
             Developer with expertise in Java, React, Flutter and Angular. With a
             strong foundation in both front-end and back-end technologies, I
-            specialize in creating dynamic, user-friendly web and mobile
-            applications that deliver seamless user experiences. <br /> <br /> My journey in
+            specialize in creating dynamic, user-friendly web and mobile applications that deliver seamless user experiences. <br />
+            My journey in
+            in coding began with a fascination for how technology can
+            solve real-world problems and enhance everyday life. Over the years,
+            I've honed my skills through various projects, continually seeking
+            out new challenges and opportunities to grow.
+            {/*<br /> <br /> My journey in
             in coding began with a fascination for how technology can
             solve real-world problems and enhance everyday life. Over the years,
             I've honed my skills through various projects, continually seeking
@@ -56,7 +61,7 @@ const About = () => {
             communication skills and personability so I look forward to talking
             to you to establish a long-standing relationship. I am a full-time
             freelancer so I will respond within 24hrs. Reach out so I can help
-            your business succeed.
+            your business succeed. */}
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
