@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "atalibdev"
-  }
+    "default": "atalibdev",
+    "atalibdev": "portfolio-f54c1"
+  },
+  "targets": {},
+  "etags": {}
 }
